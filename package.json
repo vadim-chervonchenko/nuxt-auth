@@ -1,0 +1,19 @@
+{
+    "name": "nuxt-text",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "generate": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "@babel/preset-env": "^7.12.17",
+        "@nuxtjs/auth": "^4.9.1",
+        "@nuxtjs/axios": "^5.13.6",
+        "js-cookie": "^2.2.1",
+        "nuxt": "^2.10.1"
+    },
+    "devDependencies": {
+        "@nuxtjs/tailwindcss": "^4.2.1"
+    }
+}
