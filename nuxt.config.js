@@ -5,7 +5,7 @@ export default {
         fbAPIKey: 'AIzaSyAg2JhDB24dm8ny7dCaQPndZxZuAjAPubs',
     },
     router: {
-        middleware: ['auth']
+        middleware: ['login-user']
     },
 
     buildModules: ['@nuxtjs/tailwindcss']

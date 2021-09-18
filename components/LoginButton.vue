@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute inline-flex items-center justify-center top-0 right-0 px-4 py-5 lg:px-8 xl:px-20 lg:py-12">
+  <div v-if="" class="absolute inline-flex items-center justify-center top-0 right-0 px-4 py-5 lg:px-8 xl:px-20 lg:py-12">
     <span class="hidden sm:block text-sm tracking-wide font-medium mr-8">
       Already have an account?
     </span>
